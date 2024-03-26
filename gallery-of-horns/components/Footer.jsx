@@ -1,9 +1,9 @@
-
+import React from 'react';
 
 function Footer() {
   return (
-    <footer>
-      <p>&copy; 2024 Michael Roark</p>
+    <footer className="text-center">
+      <p>©2024 Michael Roark. All rights reserved.</p>
     </footer>
   );
 }

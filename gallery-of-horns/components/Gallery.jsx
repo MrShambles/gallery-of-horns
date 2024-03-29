@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import HornedBeast from './HornedBeast';
-import data from '../src/assets/data.json'; // Make sure the path is correct for your project
+import data from '../src/assets/data.json';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
